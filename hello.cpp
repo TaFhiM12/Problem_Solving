@@ -9,6 +9,6 @@ int32_t main()
 {
     optimize();
     cout << "Hello Tafhim" << nl ;
-    cout << 7 + 10 << nl ;
+    cout <<"Sum of Two Numbers : " <<  7 + 10<< nl ;
     return 0;
 }
